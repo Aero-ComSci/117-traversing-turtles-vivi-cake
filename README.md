@@ -37,4 +37,10 @@ Step 18
 
 `
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
+
+
+https://github.com/user-attachments/assets/0c12eda9-5909-411a-8aa9-660abf858875
+
+
+
 ## For Regrades use the Feedback and @baeztheprog on your commit messages.
