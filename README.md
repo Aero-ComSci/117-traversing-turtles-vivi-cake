@@ -24,9 +24,9 @@ An __init__ method to set the turtles to the data structure
 Be sure include error checks and documentation on the read me to utilize the class you create.
 
 ```
-The object for the class is turtly
+The object for the class is turts
        - N
-       - turtly.spiral is my extention
+       - turts.spiral is my extention
 ```
  
 
