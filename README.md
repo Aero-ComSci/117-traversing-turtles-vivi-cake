@@ -25,7 +25,7 @@ Be sure include error checks and documentation on the read me to utilize the cla
 
 ```
 The object for the class is turts
-       - N
+       - turts.norm is the normal octagon thingy
        - turts.spiral is my extention
 ```
  
