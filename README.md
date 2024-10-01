@@ -44,6 +44,8 @@ erm, lwk didn't have any
 `
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
 
+https://github.com/user-attachments/assets/b9daac56-5e50-497e-a677-3b91865e6f4b
+
 
 https://github.com/user-attachments/assets/0c12eda9-5909-411a-8aa9-660abf858875
 
