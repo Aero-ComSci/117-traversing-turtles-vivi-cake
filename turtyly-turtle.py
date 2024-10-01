@@ -24,7 +24,7 @@ class turtly:
 
         
 
-        for t in my_turtles:
+        for t in self.my_turtles:
             t.penup()
             t.goto(startx, starty)   
             t.pendown()
@@ -54,7 +54,7 @@ class turtly:
 
 turts = turtly()
 
-turts.spiral()
+turts.norm()
     
 
 
