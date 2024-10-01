@@ -22,6 +22,10 @@ A public method that contains a loop to iterate through the data structure.
 An __str__ method on the class to print out step 6 -- for the turles, what specific information would be useful?
 An __init__ method to set the turtles to the data structure
 Be sure include error checks and documentation on the read me to utilize the class you create.
+
+```
+The object for the class
+```
  
 
 3. Action Items
@@ -31,7 +35,7 @@ Step 18
 
 ## Questions about the Activity as you work. 
 ```
-
+erm, lwk didn't have any
 ```
 #### Description Of The App 
 
